@@ -21,7 +21,7 @@ You can deploy this bot anywhere.
 <pre>
 Tutorial Video👇
 
-**[Watch Deploying Tutorial...](https://youtu.be/wCB2zbwEguA)**
+**[Developer...](https://t.me/Termin_a_t_o_r)**
 
 Deploy To Hereku👇
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aaron-2008/MT-Rename-Bot.git)
