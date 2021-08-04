@@ -29,7 +29,7 @@ Deploy To Hereku👇
 </p>
 </details>
 
-**[Watch Deploying Tutorial...](https://youtu.be/wCB2zbwEguA)**
+**[Channel...](https://t.me/Mallu_CINEMASSS)**
 
 
 <details><summary>Any Bugs</summary>
